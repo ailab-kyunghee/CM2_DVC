@@ -2,6 +2,7 @@
 
 This repo is a official codebase for our paper accepted to the CVPR2024. 
 The aim of this repo is to help other researchers.
+[Paper](https://arxiv.org/abs/2404.07610) 
 
 ## Introduction
 <img src="./CM2_fig.png">
