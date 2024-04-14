@@ -62,13 +62,13 @@ Training ActivityNet Captions
 
 ```bash
 cd  CM2
-sh  train_ret_encdec_clip_anet.sh
+sh  train_anet.sh
 ```
 
 Training YouCook2
 ```bash
 cd  CM2
-sh  train_ret_encdec_clip_yc2.sh
+sh  train_yc2.sh
 ```
   
 ## Evaluation CM2
@@ -77,14 +77,14 @@ Evaluate ActivityNet Captions
 
 ```bash
 cd  CM2
-sh  eval_ret_encdec_clip_anet.sh
+sh  eval_anet.sh
 ```
 
 Evaluate YouCook2
 
 ```bash
 cd  CM2
-sh  eval_ret_encdec_clip_yc2.sh
+sh  eval_yc2.sh
 ```
 
 ## Citation
