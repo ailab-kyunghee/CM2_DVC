@@ -1,6 +1,7 @@
+#Do you remember? Dense Video Captioning with Cross-Modal Memory Retrieval
+
 This repo is a official codebase for our paper accepted to the CVPR2024. 
 The aim of this repo is to help other researchers.
-Note that we used RTX3090 GPU.
 
 ## Introduction
 <img src="./CM2_fig.png">
