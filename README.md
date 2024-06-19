@@ -6,7 +6,7 @@ The aim of this repo is to help other researchers.
 [Paper](https://arxiv.org/abs/2404.07610) 
 
 The author, Minkuk Kim is finding new job! 
-[Minkuk Kim][https://geppa.github.io/]
+[Minkuk Kim](https://geppa.github.io/)
 
 ## Introduction
 <img src="./CM2_fig.png">
